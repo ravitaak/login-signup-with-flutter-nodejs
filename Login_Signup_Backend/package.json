@@ -1,0 +1,16 @@
+{
+  "name": "login_signup_backend",
+  "version": "1.0.0",
+  "description": "This is a simple login signup project api for flutter app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ravi Taak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3"
+  }
+}
